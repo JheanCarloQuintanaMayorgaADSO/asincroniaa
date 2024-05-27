@@ -1,0 +1,104 @@
+{
+  "users": [
+    {
+      "name":"John Freddy Carreño",
+      "user" :"ChurroDevelop",
+      "aprendiz": true
+    },
+    {
+      "name":"John Becerra",
+      "user": "johnvanagandr",
+      "aprendiz": false
+    },
+    {
+      "name":"Samuel David",
+      "user":"SamuelDavidRuedaSuarezADSO",
+      "aprendiz": true
+    },
+    {
+      "name":"Daniel Fernando Zayas",
+      "user": "TonosDeAzul",
+      "aprendiz": true
+    },
+    {
+      "name":"Juan David Barrera",
+      "user": "JuanDavidBarreraADSO",
+      "aprendiz": true
+    },
+    {
+      "name":"Abel Sneyder Camargo",
+      "user": "AbelSneyderCamargoOrtizADSO",
+      "aprendiz": true
+    },
+    {
+      "name":"Juan Olave",
+      "user": "JuanOlave1805",
+      "aprendiz": true
+    },
+    {
+      "name":"Kevin Santiago Plata",
+      "user": "KevinSantiagoPlataVillalobosADSO",
+      "aprendiz": true
+    },
+    {
+      "name":"Johan Alejando Hernadez",
+      "user": "HostileCat" ,
+      "aprendiz": true 
+    },
+    {
+      "name":"Cristian Samir Paez",
+      "user": "CristianSamirPaezArizaADSO",
+      "aprendiz": true    
+    },
+    {
+      "name":"Karim Yulexi Castillo",
+      "user": "KarimYulexiCastilloGarnicaADSO",
+      "aprendiz": true
+    },
+    {
+      "name":"Jhean Carlo Quintana",
+      "user": "JheanCarloQuintanaMayorgaADSO",
+      "aprendiz": true
+    },
+    {
+      "name":"Yesid Stiven Pabon",
+      "user": "YesidStivenPabonCorredorADSO",
+      "aprendiz": true
+    },
+    {
+      "name":"Jose Julian Silva",
+      "user": "JoseJulianSIlvaEstupinanADSO",
+      "aprendiz": true
+    },
+    {
+      "name":"Fabian David Marin Caceres",
+      "user": "FabianDavidMarinCaceresADSO",
+      "aprendiz": true
+    },
+    {
+      "name":"William Camilo Rojas",
+      "user": "WilliamCamiloRojasAparicioADSO",
+      "aprendiz": true
+    },
+    {
+      "name":"Eduardo Adrian Escobar",
+      "user": "EduardoAdrianEscobarVeraADSO",
+      "aprendiz": true
+    },
+    {
+      "name":"Sebastian Ruiz",
+      "user": "SebasADSO",
+      "aprendiz": true
+    },
+    {
+      "name":"Brayan Steven Riano Fuentes",
+      "user":"BrayanStevenRianoFuentesADSO",
+      "aprendiz": true
+    },
+    {
+      "name":"Jose Puello",
+      "user": "JosePuello155",
+      "aprendiz": true
+    }
+  ]
+}
